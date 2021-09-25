@@ -133,7 +133,9 @@ p {
 .review {
     padding-top: 1rem;
     color: hsl(303, 10%, 83%);
-    font-weight: 500;
+   font-weight: 600;
+    line-height: 1.3rem;
+    
 }
 
 
